@@ -1,0 +1,26 @@
+First time upload 
+
+1.git init 
+
+2.git commit -m "upload"
+
+3.git add .
+
+4.New Repository Create
+
+5.git branch -M main
+
+6.git remote add orgin (^^Lnk^^)
+
+7.git push -u origin main
+
+8.Done
+
+
+2nd Time Upload 
+
+1.git add .
+
+2.git commit -m "text"
+
+3.git push
